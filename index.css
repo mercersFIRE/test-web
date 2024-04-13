@@ -61,7 +61,7 @@ body {
     padding: 2rem 1rem;
   }
   .infeature {
-    max-width: 1200px;
+    max-width: 1080px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
